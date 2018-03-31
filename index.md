@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 ## !!! TODO !!! ##
 
+=======
+>>>>>>> be21894... Set theme jekyll-theme-merlot
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/essjaybee/SoT-M8-Bot/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
