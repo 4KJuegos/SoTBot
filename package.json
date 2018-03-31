@@ -1,12 +1,12 @@
 {
-  "name": "M8Bot",
-  "version": "7.4.1",
-  "description": "Moderation, Fun & Music",
+  "name": "SoTM8Bot",
+  "version": "7.4.2",
+  "description": "Sea of Thieves announcement bot",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Mitchell Reiff",
+  "author": "Mitchell Reiff (fork by Martin Emess)",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.2",
